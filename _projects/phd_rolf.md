@@ -11,7 +11,7 @@ category: phd
 
 Together with Dennis Huisman and Marjan van den Akker, I was the daily supervisor of Rolf van Lieshout between 2017 and 2022.
 
-Rolf [graduated cum laude on Friday the 13th of May 2022](https://www.erim.eur.nl/research/news/detail/5455-phd-defence-rolf-van-lieshout/).
+Rolf [graduated cum laude on Friday the 13th of May 2022](https://www.erim.eur.nl/research/news/detail/5455-phd-defence-rolf-van-lieshout/). Be sure to check his website at [www.rolfvanlieshout.com/](https://www.rolfvanlieshout.com/).
 
 His thesis [Integration, Decentralization and Self-Organization: Towards Better Public Transport](https://pure.eur.nl/en/publications/integration-decentralization-and-self-organization-towards-better) received an honourable mention in the prestigious [TSL Dissertation Award competition](https://www.eur.nl/en/ese/news/alumnus-rolf-van-lieshout-receives-honourable-mention-tsl-dissertation-award-competition).
 
