@@ -15,7 +15,7 @@ Rolf [graduated cum laude on Friday the 13th of May 2022](https://www.erim.eur.n
 
 His thesis [Integration, Decentralization and Self-Organization: Towards Better Public Transport](https://pure.eur.nl/en/publications/integration-decentralization-and-self-organization-towards-better) received an honourable mention in the prestigious [TSL Dissertation Award competition](https://www.eur.nl/en/ese/news/alumnus-rolf-van-lieshout-receives-honourable-mention-tsl-dissertation-award-competition).
 
-Rolf is currently working as an [assistant professor at the Eindhoven University of Technology](https://www.tue.nl/en/research/researchers/rolf-van-lieshout/).
+Rolf is currently working as an [assistant professor at the Eindhoven University of Technology](https://www.rolfvanlieshout.nl/).
 
 ## Thesis Abstract
 
