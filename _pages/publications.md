@@ -11,6 +11,6 @@ nav_order: 2
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
-The P*, EP*, P and S labels indicate the position of the different journals on the <a href="https://www.erim.eur.nl/about-erim/erim-journals-list-ejl/" target="_blank">ERIM Journal List</a>. 
+The P*, EP*, P and S labels indicate the position of the different journals on the <a href="https://www.eur.nl/en/erim/erim/journal-list" target="_blank">ERIM Journal List</a>. 
 
 </div>
