@@ -10,12 +10,16 @@
   }
 
   // -------------------------------------------------------------------------
-  // Hide site chrome
+  // Hide site chrome.
+  // footer.fixed-bottom uses position:fixed, which Chrome's print renderer
+  // repeats as a running element on every page. Setting position:static
+  // alongside display:none prevents that.
   // -------------------------------------------------------------------------
   nav.navbar,
   footer,
   #progress {
     display: none !important;
+    position: static !important;
   }
 
   // Remove spacing the navbar normally reserves
@@ -40,11 +44,10 @@
   }
 
   // -------------------------------------------------------------------------
-  // Hide interactive-only elements (Abs/Bib toggles; the expanded panels
-  // are already .hidden so they stay hidden too)
+  // Hide all link buttons — they clutter the printed page and can orphan
+  // onto the next page. The hidden abstract/bibtex panels stay hidden too.
   // -------------------------------------------------------------------------
-  .links a.abstract,
-  .links a.bibtex,
+  .links,
   .abstract.hidden,
   .bibtex.hidden {
     display: none !important;
@@ -54,14 +57,7 @@
   // Preserve badge colours (browsers suppress backgrounds by default)
   // -------------------------------------------------------------------------
   abbr.badge,
-  .abbr abbr {
-    -webkit-print-color-adjust: exact;
-    print-color-adjust: exact;
-  }
-
-  // -------------------------------------------------------------------------
-  // ERIM rating badge — same colour treatment
-  // -------------------------------------------------------------------------
+  .abbr abbr,
   .col-sm-2.abbr abbr.badge {
     -webkit-print-color-adjust: exact;
     print-color-adjust: exact;
