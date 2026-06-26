@@ -59,8 +59,9 @@
           {%- for author in entry.author_array -%}
             <li class="author-item">
             {%- assign author_is_self = false -%}
+            {%- assign author_first_clean = author.first | remove: "{" | remove: "}" -%}
             {%- if author.last == site.scholar.last_name%}
-              {%- if site.scholar.first_name contains author.first -%}
+              {%- if site.scholar.first_name contains author_first_clean -%}
                 {%- assign author_is_self = true -%}
               {%- endif -%}
             {%- endif -%}

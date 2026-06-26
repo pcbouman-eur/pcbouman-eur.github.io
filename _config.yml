@@ -274,7 +274,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 scholar:
 
   last_name: Bouman
-  first_name: [Paul, P., P.C., Paul C.]
+  first_name: [Paul, P., P.C., "P. C.", Paul C.]
 
   style: apa
   locale: en

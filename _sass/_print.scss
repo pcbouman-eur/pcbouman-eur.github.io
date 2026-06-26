@@ -1,0 +1,69 @@
+@media print {
+  // -------------------------------------------------------------------------
+  // Page setup: use the full printable area so the browser's own
+  // header/footer row (URL, date, page number) occupies minimal space.
+  // Note: to suppress browser headers/footers entirely, uncheck
+  // "Headers and footers" in the browser print dialog.
+  // -------------------------------------------------------------------------
+  @page {
+    margin: 1.5cm 2cm;
+  }
+
+  // -------------------------------------------------------------------------
+  // Hide site chrome
+  // -------------------------------------------------------------------------
+  nav.navbar,
+  footer,
+  #progress {
+    display: none !important;
+  }
+
+  // Remove spacing the navbar normally reserves
+  body,
+  body.fixed-top-nav {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  // -------------------------------------------------------------------------
+  // Keep each publication entry on one page
+  // -------------------------------------------------------------------------
+  .publications ol.bibliography li {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  // Keep year headings attached to the first entry that follows them
+  .publications h2.bibliography {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  // -------------------------------------------------------------------------
+  // Hide interactive-only elements (Abs/Bib toggles; the expanded panels
+  // are already .hidden so they stay hidden too)
+  // -------------------------------------------------------------------------
+  .links a.abstract,
+  .links a.bibtex,
+  .abstract.hidden,
+  .bibtex.hidden {
+    display: none !important;
+  }
+
+  // -------------------------------------------------------------------------
+  // Preserve badge colours (browsers suppress backgrounds by default)
+  // -------------------------------------------------------------------------
+  abbr.badge,
+  .abbr abbr {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  // -------------------------------------------------------------------------
+  // ERIM rating badge — same colour treatment
+  // -------------------------------------------------------------------------
+  .col-sm-2.abbr abbr.badge {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
