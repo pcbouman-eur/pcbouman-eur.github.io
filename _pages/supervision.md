@@ -17,6 +17,12 @@ This is a list of students who *completed* their Master Thesis under my supervis
 
 ### Operations Research and Quantitative Logistics 
 
+* Devi Slobbe (2026) - Evaluating Service Repair Policies in Air Cargo / A Simulation–Optimization Study with Knapsack-Based Capacity Allocation at Air France KLM Martinair Cargo (*internship at KLM Martinair Cargo*)
+* Elise Ummels (2025) - Brownfield Territory Optimization (*internship at ORTEC*)
+* Emma van den Berg (2025) - Towards a dedicated selection algorithm for service mechanic scheduling (*internship at ORTEC*)
+* Laura Vila Gonzalo (2025) - Office Space Optimization: a comparison between a User-Room model and a Cluster model
+* Colin van Garderen (2024) - [Optimal Order Routing with Contextual Multi-Armed Bandits](https://thesis.eur.nl/pub/72882) (*internship at Robeco*)
+* Romi Versluis - The evaluation of lithium-ion battery lifespan for electric public transportation city buses: predicting battery degradation and optimizing battery use. (*internship at Lynxx*)
 * David Stapel (2023) - [Automating the parameter tuning of a stowage planner](https://thesis.eur.nl/pub/70468) (*internship at Konecranes*)
 * Tim Tjhay (2023) - [Using Machine Learning predictions in Operations Research techniques to solve the Nurse Rostering Problem](https://thesis.eur.nl/pub/70253) (*internship at ORTEC*)
 * Ninette den Breejen (2023) - A Comparison of Local Search Algorithms for the Flexible Job Shop Scheduling Problem for the Production of Greenhouses (*internship at KUBO*)
@@ -43,9 +49,17 @@ This is a list of students who *completed* their Master Thesis under my supervis
 
 ### Business Analytics and Quantitative Marketing
 
-* Philip Verdonk (2024) - Assessing Task-Specific Performance Gains from Parameter-Efficient Fine-Tuning of Autoregressive Large Language Models (*internship at Freeday*)
-* Thomas Bersee (2024) - Evaluating the forecast performance of homogeneous, heterogeneous, and shrinkage estimators applied to automotive after-sales demand (*internship at Gibbs Analytics Consulting and Louwman Group*)
+* Douwe Terlouw (2025) - Domain-Adapted Fine-Tuning of Embedding Models for Retrieval-Augmented Generation Systems (*internship at Notilyze*)
+* Gonem Lau (2025) - Graceful Fallback in Hierarchical Object Detection with Hierarchical Focal Loss and Hierarchy Metrics (*internship at TNO*)
+* Julian Jager (2025) - Evaluating Model Generalization for Brix Prediction in Strawberries Using NIR Spectroscopy (*internship at OneThird*)
+* Jonathan Rietveld (2025) - The effect of exercise on mental health: causal analysis in the face of reverse causality
+* Luuk Omvlee (2025) - Evaluating Amnesiac Unlearning on Tabular Data (*internship at Clever Republic*)
 * Daniel Nierop (2024) - Promoting a Pawn to a Goal
+* Jaco de Hoog (2024) - [Predicting the length of stay of nonsurgical patients](https://thesis.eur.nl/pub/72909) (*internship at Chipsoft*)
+* Jule Koenders (2024) - [Advancing Cyberdefense through BERT: A Natural Language Processing Approach for Vulnerability to Attack Mapping within a Responsible Artificial Intelligence Framework](https://thesis.eur.nl/pub/72914) (*internship at EY*)
+* Loran Calbo (2024) - Assessing Shot Trajectories in Football using various Similarity Measures
+* Philip Verdonk (2024) - [Assessing Task-Specific Performance Gains from Parameter-Efficient Fine-Tuning of Autoregressive Large Language Models](https://thesis.eur.nl/pub/73000) (*internship at Freeday*)
+* Thomas Bersee (2024) - Evaluating the forecast performance of homogeneous, heterogeneous, and shrinkage estimators applied to automotive after-sales demand (*internship at Gibbs Analytics Consulting and Louwman Group*)
 * Rick van Dosselaar (2023) - A Set-to-Set Forecasting Framework for Predicting Local, Non-Isometric Transformations within 3D Objects using Neural Networks (*internship at Pipple*)
 * Chaya Jaggan (2023) - Multi-touch Attribution Modelling Applied to the Telecommunications Industry (*internship at KPN*)
 * Dave Warsito (2023) - Evaluating a Semantics-Driven Ingredient Substitution Heuristic for Vegan Diets using a Food Knowledge Graph (*internship at KPMG*)
