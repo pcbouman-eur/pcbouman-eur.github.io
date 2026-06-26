@@ -11,7 +11,7 @@ category: phd
 
 Together with Dennis Huisman and Marjan van den Akker, I was the daily supervisor of Rolf van Lieshout between 2017 and 2022.
 
-Rolf [graduated cum laude on Friday the 13th of May 2022](https://www.erim.eur.nl/research/news/detail/5455-phd-defence-rolf-van-lieshout/). Be sure to check his website at [www.rolfvanlieshout.com/](https://www.rolfvanlieshout.com/).
+Rolf [graduated cum laude on Friday the 13th of May 2022](https://web.archive.org/web/20260306051132/https://www.erim.eur.nl/research/news/detail/5455-phd-defence-rolf-van-lieshout/). Be sure to check his website at [www.rolfvanlieshout.com/](https://www.rolfvanlieshout.com/).
 
 His thesis [Integration, Decentralization and Self-Organization: Towards Better Public Transport](https://pure.eur.nl/en/publications/integration-decentralization-and-self-organization-towards-better) received an honourable mention in the prestigious [TSL Dissertation Award competition](https://www.eur.nl/en/ese/news/alumnus-rolf-van-lieshout-receives-honourable-mention-tsl-dissertation-award-competition).
 
@@ -36,4 +36,4 @@ I was co-author of four papers Rolf worked on during his PhD:
 
 ## Societal Impact
 
-Rolf's research was featured in the nationwide Dutch newspaper Trouw [(article on EUR.nl with a PDF version)](https://www.eur.nl/en/news/during-big-ns-disruption-deployment-station-managers-could-help) [(article on Trouw.nl, behind a paywall)](https://www.trouw.nl/economie/wat-als-de-ns-nog-zo-n-technische-storing-krijgen-zo-kunnen-sommige-treinen-toch-rijden-volgens-deze-onderzoeker~b359c5cc/). Trouw won the European Newspaper Award in the nationwide category in 2001 and 2012.
+Rolf's research was featured in the nationwide Dutch newspaper Trouw [(article on EUR.nl with a PDF version)](https://www.eur.nl/en/news/during-big-ns-disruption-deployment-station-managers-could-help) [(article on Trouw.nl)](https://www.trouw.nl/economie/wat-als-de-ns-nog-zo-n-technische-storing-krijgen-zo-kunnen-sommige-treinen-toch-rijden-volgens-deze-onderzoeker~b359c5cc/). 

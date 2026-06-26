@@ -8,7 +8,8 @@ nav: true
 
 ## PhD Supervision
 
-* (2020-now) I am the daily supervisor of Mette Wagenvoort [(project page)](/projects/phd_mette)
+* (2023-now) I am the daily supervisor of Nguyễn Hoàng Thi Khuê [(project page)](/projects/phd_khue)
+* (2020-2025) I was the daily supervisor of Mette Wagenvoort [(project page)](/projects/phd_mette)
 * (2017-2022) I was the daily supervisor of Rolf van Lieshout [(project page)](/projects/phd_rolf)
 
 ## Master Thesis Supervision
@@ -22,7 +23,7 @@ This is a list of students who *completed* their Master Thesis under my supervis
 * Emma van den Berg (2025) - Towards a dedicated selection algorithm for service mechanic scheduling (*internship at ORTEC*)
 * Laura Vila Gonzalo (2025) - Office Space Optimization: a comparison between a User-Room model and a Cluster model
 * Colin van Garderen (2024) - [Optimal Order Routing with Contextual Multi-Armed Bandits](https://thesis.eur.nl/pub/72882) (*internship at Robeco*)
-* Romi Versluis - The evaluation of lithium-ion battery lifespan for electric public transportation city buses: predicting battery degradation and optimizing battery use. (*internship at Lynxx*)
+* Romi Versluis (2024) - The evaluation of lithium-ion battery lifespan for electric public transportation city buses: predicting battery degradation and optimizing battery use. (*internship at Lynxx*)
 * David Stapel (2023) - [Automating the parameter tuning of a stowage planner](https://thesis.eur.nl/pub/70468) (*internship at Konecranes*)
 * Tim Tjhay (2023) - [Using Machine Learning predictions in Operations Research techniques to solve the Nurse Rostering Problem](https://thesis.eur.nl/pub/70253) (*internship at ORTEC*)
 * Ninette den Breejen (2023) - A Comparison of Local Search Algorithms for the Flexible Job Shop Scheduling Problem for the Production of Greenhouses (*internship at KUBO*)
