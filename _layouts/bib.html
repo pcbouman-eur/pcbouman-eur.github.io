@@ -10,7 +10,13 @@
           {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
         {%- elsif entry.type == "incollection" -%}
           {%- capture entrytype -%}<em>Book Chapter in {{entry.booktitle}}</em> {%- endcapture -%}
-        {%- else -%} 
+        {%- elsif entry.type == "proceedings" -%}
+          {%- if entry.booktitle -%}
+            {%- capture entrytype -%}<em>{{entry.booktitle}}</em>, editor{%- endcapture -%}
+          {%- else -%}
+            {%- capture entrytype -%}<em>{{entry.title}}</em>, editor{%- endcapture -%}
+          {%- endif -%}
+        {%- else -%}
           {%- capture entrytype -%}<em>{{entry.type | capitalize}}</em> {%- endcapture -%}
         {%- endif -%}
         {%- if entry.month -%}
@@ -79,11 +85,10 @@
                    {%- capture authorfull -%}{{ author.first }}{{ " " }}{{ author.suffix }}{{" "}}{{ author.last }}{%- endcapture -%}
               {%- else -%}
                    {%- capture authorfull -%}{{ author.first }}{{ " " }}{{ author.last }}{%- endcapture -%}
-              {%- endif -%}  
+              {%- endif -%}
             {%- endif -%}
+            {%- assign authorfull = authorfull | remove: "{" | remove: "}" -%}
 
-
-            
             {%- if forloop.length == 1 -%}
               {%- if author_is_self %}
                 <em>{{ authorfull | strip }}</em>
